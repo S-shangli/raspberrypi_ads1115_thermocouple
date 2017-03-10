@@ -27,6 +27,13 @@ just execute. no need args.
     LM61_degC            : 16.425000000000 degC
     RESULT : 17.960626535626 degC
 
+# software requirements
+* zsh
+* i2cset
+* i2cget
+* sed
+* bc
+* sleep, tr
 
 # hardware list
 * RaspberryPi, OrangePi, C.H.I.P. and i2cget/i2cset working environment.
